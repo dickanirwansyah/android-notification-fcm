@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notification</string>
+    <string name="edt_enter_your_title">Enter Your Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="edt_enter_your_message">Enter Your Message</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="edt_enter_your_token">Enter Your Token</string>
+    <string name="enter_your_token">Enter Your Token</string>
+    <string name="send">Send</string>
+</resources>
